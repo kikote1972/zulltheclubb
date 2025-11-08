@@ -1,0 +1,17 @@
+{
+  "name": "Zull The Club - Gestión de Socios",
+  "short_name": "Zull The Club",
+  "description": "Un sistema moderno de gestión de socios de una sola página para Zull The Club, centrado en el registro y la gestión de socios con un diseño limpio y profesional.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0f2c",
+  "theme_color": "#0a0f2c",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
